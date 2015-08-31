@@ -10,6 +10,7 @@ class CreateUsers < ActiveRecord::Migration
     	# t.datetime "created_at"
     	# t.datetime "updated_at"
         t.timestamps 
+     end   
     end
 
   def down
